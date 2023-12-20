@@ -1,27 +1,39 @@
-# React + TypeScript + Vite
+# Burger Queen - Sistema de Pedidos para Restaurante 🍔👩‍🍳👨‍💼
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Burger Queen Logo](burger-queen-logo.png)
 
-Currently, two official plugins are available:
+¡Bienvenido a Burger Queen! Este proyecto es una SPA (Single Page Application) desarrollada con React y TypeScript, diseñada para facilitar la gestión de pedidos en un restaurante ficticio llamado Burger Queen. Aquí encontrarás un resumen del proyecto y cómo utilizarlo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Introducción
 
-## Expanding the ESLint configuration
+Burger Queen es un sistema de pedidos diseñado para mejorar la eficiencia en la gestión de pedidos en un restaurante. Se basa en prototipos de alta fidelidad creados en Figma y utiliza una API Mock para simular las interacciones con una base de datos.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![Prototipo1](prot1.png)
+![Prototipo2](prot2.png)
+![Prototipo2](prot3.png)
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Funcionalidades
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **Inicio de Sesión:** Accede con credenciales únicas según el rol del usuario.
+- **Roles de Usuario:**
+  - **Mesero:** Crea nuevos pedidos, visualiza el estado de los pedidos y entrega los pedidos listos.
+  - **Chef:** Visualiza los pedidos entrantes, prepara los platillos y marca los pedidos como finalizados.
+  - **Administrador:** Gestiona la lista de trabajadores (crear, editar, borrar) y productos (crear, editar, borrar).
+
+## Usuarios
+
+El sistema cuenta con tres tipos de usuarios:
+
+1. **Mesero:**
+   - **Usuario:** waiter@systers.xyz
+   - **Contraseña:** 123456
+
+2. **Chef:**
+   - **Usuario:** chef@systers.xyz
+   - **Contraseña:** 123456
+
+3. **Administrador:**
+   - **Usuario:** admin@systers.xyz
+   - **Contraseña:** 123456
+
