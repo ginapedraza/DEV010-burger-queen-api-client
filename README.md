@@ -2,7 +2,7 @@
 # Sistema de Pedidos para Restaurante 🍔👩‍🍳👨‍💼
 
 <p align="center">
-<img src="./src/assets/burger-queen-logo.png" alt="LOGO" width="200" height="300">
+<img src="./src/assets/burger-queen-logo.png" alt="LOGO" width="200" height="250">
 </p>
 
 ¡Bienvenido a Burger Queen! Este proyecto es una SPA (Single Page Application) desarrollada con React y TypeScript, diseñada para facilitar la gestión de pedidos en un restaurante ficticio llamado Burger Queen. Aquí encontrarás un resumen del proyecto y cómo utilizarlo.
