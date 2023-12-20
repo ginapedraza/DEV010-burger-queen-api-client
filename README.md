@@ -12,9 +12,9 @@
 Burger Queen es un sistema de pedidos diseñado para mejorar la eficiencia en la gestión de pedidos en un restaurante. Se basa en prototipos de alta fidelidad creados en Figma y utiliza una API Mock para simular las interacciones con una base de datos.
 
 <p align="center">
-<img src="./src/assets/prot1.png" alt="LOGO" width="300" height="150">
-  <img src="./src/assets/prot1.png" alt="LOGO" width="300" height="150">
-  <img src="./src/assets/prot1.png" alt="LOGO" width="300" height="150">
+<img src="./src/assets/prot1.png" alt="LOGO" width="800" height="400">
+  <img src="./src/assets/prot1.png" alt="LOGO" width="800" height="400">
+  <img src="./src/assets/prot1.png" alt="LOGO" width="800" height="400">
 </p>
 
 
