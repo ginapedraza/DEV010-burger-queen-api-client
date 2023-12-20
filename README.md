@@ -1,7 +1,6 @@
-<p align="center">
-# Burger Queen
-# Sistema de Pedidos para Restaurante 🍔👩‍🍳👨‍💼
-</p>
+
+# Burger Queen - Sistema de Pedidos para Restaurante 🍔👩‍🍳👨‍💼
+
 <p align="center">
 <img src="./src/assets/burger-queen-logo.png" alt="LOGO" width="200" height="200">
 </p>
