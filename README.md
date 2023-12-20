@@ -1,6 +1,6 @@
 # Burger Queen - Sistema de Pedidos para Restaurante 🍔👩‍🍳👨‍💼
 
-![Burger Queen Logo](burger-queen-logo.png)
+![Burger Queen Logo](src\assets\burger-queen-logo.png)
 
 ¡Bienvenido a Burger Queen! Este proyecto es una SPA (Single Page Application) desarrollada con React y TypeScript, diseñada para facilitar la gestión de pedidos en un restaurante ficticio llamado Burger Queen. Aquí encontrarás un resumen del proyecto y cómo utilizarlo.
 
@@ -8,9 +8,9 @@
 
 Burger Queen es un sistema de pedidos diseñado para mejorar la eficiencia en la gestión de pedidos en un restaurante. Se basa en prototipos de alta fidelidad creados en Figma y utiliza una API Mock para simular las interacciones con una base de datos.
 
-![Prototipo1](prot1.png)
-![Prototipo2](prot2.png)
-![Prototipo2](prot3.png)
+![Prototipo1](src\assets\prot1.png)
+![Prototipo2](src\assets\prot2.png)
+![Prototipo2](src\assets\prot3.png)
 
 
 ## Funcionalidades
