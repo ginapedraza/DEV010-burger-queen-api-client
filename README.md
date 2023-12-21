@@ -13,8 +13,8 @@ Burger Queen es un sistema de pedidos diseñado para mejorar la eficiencia en la
 
 <p align="center">
 <img src="./src/assets/prot1.png" alt="LOGO" width="800" height="380">
-  <img src="./src/assets/prot1.png" alt="LOGO" width="800" height="380">
-  <img src="./src/assets/prot1.png" alt="LOGO" width="800" height="380">
+  <img src="./src/assets/prot2.png" alt="LOGO" width="800" height="380">
+  <img src="./src/assets/prot3.png" alt="LOGO" width="800" height="380">
 </p>
 
 
